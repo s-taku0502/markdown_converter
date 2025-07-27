@@ -15,6 +15,11 @@ Pandocを使用してMarkdownファイルをPDFに変換します。
     python3 MarkdownToPdf.py input.md output.pdf
     python3 MarkdownToPdf.py --demo
     python3 MarkdownToPdf.py --help
+
+Author: s-taku0502
+License: MIT License
+Version: 2.0.0
+Date: 2025-07-27
 """
 
 import subprocess
